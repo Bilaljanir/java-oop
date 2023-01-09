@@ -10,7 +10,7 @@ public class Address {
 
     private int city;
 
-    public Address(int npa, int street, int number, int city) {
+    public Address(int npa, String street, int number, String city) {
         this.npa = npa;
         this.street = street;
         this.Number = number;
