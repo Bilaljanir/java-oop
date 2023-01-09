@@ -9,7 +9,8 @@ public class Main {
 
         // User creation
 
-        User myFirstUser= new User("test@toto.com","12.01.20022","Toto","tutu",new Address()
+        User myFirstUser= new User("test@toto.com","12.01.20022","Toto","tutu",new Address(1000,"Rue de jura",11,
+                ,"Lausanne")
 
         );
 
