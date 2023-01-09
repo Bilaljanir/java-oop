@@ -13,7 +13,17 @@ public class Address {
     public Address(int npa, int street, int number, int city) {
         this.npa = npa;
         this.street = street;
-        Number = number;
+        this.Number = number;
         this.city = city;
+    }
+
+    @Override
+    public String toString() {
+        return "Address{" +
+                "npa=" + npa +
+                ", street=" + street +
+                ", Number=" + Number +
+                ", city=" + city +
+                '}';
     }
 }
