@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c9617c3-b008-4514-bbe7-2bc06bc6c9ac" name="Changes" comment="Add User getter and setter and firstName validation" />
+    <list default="true" id="5c9617c3-b008-4514-bbe7-2bc06bc6c9ac" name="Changes" comment="Add User getter and setter and firstName validation">
+      <change beforePath="$PROJECT_DIR$/src/main/java/jt/oopnext/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jt/oopnext/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/Address.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673257939971</updated>
-      <workItem from="1673257941063" duration="5103000" />
+      <workItem from="1673257941063" duration="5833000" />
     </task>
     <task id="LOCAL-00001" summary="Add user cretion in Main.java with new tostring method">
       <created>1673262112421</created>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673263739279</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add User getter and setter and firstName validation">
+      <created>1673263765444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673263765444</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +131,16 @@
     <MESSAGE value="Add user cretion in Main.java with new tostring method" />
     <MESSAGE value="Add User getter and setter and firstName validation" />
     <option name="LAST_COMMIT_MESSAGE" value="Add User getter and setter and firstName validation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jt/oopnext/users/Address.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

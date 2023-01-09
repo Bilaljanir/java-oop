@@ -13,8 +13,8 @@ public class Main {
                 "Lausanne")
 
         );
-
-        myFirstUser.setFirstName("billla");
+        new Address("Rue du jura-11-1100-Lausanne")
+        myFirstUser.setFirstName("bil");
 
         System.out.println(myFirstUser);
 
