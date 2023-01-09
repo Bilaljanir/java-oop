@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c9617c3-b008-4514-bbe7-2bc06bc6c9ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jt/oopnext/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jt/oopnext/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/User.java" afterDir="false" />
+    <list default="true" id="5c9617c3-b008-4514-bbe7-2bc06bc6c9ac" name="Changes" comment="Add user cretion in Main.java with new tostring method">
+      <change beforePath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jt/oopnext/users/Address.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +76,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673257939971</updated>
-      <workItem from="1673257941063" duration="3061000" />
+      <workItem from="1673257941063" duration="3521000" />
     </task>
+    <task id="LOCAL-00001" summary="Add user cretion in Main.java with new tostring method">
+      <created>1673262112421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673262112421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add user cretion in Main.java with new tostring method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user cretion in Main.java with new tostring method" />
   </component>
 </project>
